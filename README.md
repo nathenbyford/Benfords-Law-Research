@@ -1,2 +1,5 @@
 # Benfords Law Research
- Reposetory for my work on Benford's Law and how to test if a dataset is distributed Benford. 
+Work done at RUSIS @ OSU 2021, full report available by request.
+
+## Project goals
+Looking into different tests for determining if datasets follow Benford's Law. 
